@@ -1,0 +1,29 @@
+
+
+@media screen and (min-width: 480px){
+
+    .containermain{
+       
+    padding-right: 200px;
+}
+
+    h2 {
+        padding-right: 200px;
+     
+
+}
+
+
+.containermain {
+    padding-left: 150px;
+
+   
+}
+
+@media screen and (min-width:2000px){
+    
+
+h2 {
+    padding-left: 210px;
+}
+}
