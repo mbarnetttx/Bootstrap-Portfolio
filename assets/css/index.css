@@ -1,11 +1,15 @@
   
 
 
-
+html, body {
+    margin: 0;
+    height: 100%;
+    background-image: url('../images/herringbone.png');
+}
 
 body { 
-    background-image: url('assets/images/herringbone.jpg');
-    height: 100%;
+
+   
     width: 100%;
     font-size: medium;
     box-sizing: border-box;
@@ -13,7 +17,13 @@ body {
 } 
 
 
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 50px;
 
+}
 
 
 .image2 {
@@ -50,9 +60,15 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 70px;
+  
     background-color: #4aaaa5
     
     
   }
- 
+ .footer, .push {
+        height: 50px;
+ }
+ .wrapper{
+      min-height: 100%;
+      margin-bottom: -50px;
+ }
