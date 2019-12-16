@@ -1,12 +1,4 @@
   
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
 
 
 
@@ -39,8 +31,9 @@ body {
 }
 
 
+
 .footer {
-    position: absolute;
+    
    
     left: 0;
     bottom: 0;
