@@ -30,7 +30,19 @@ body {
     max-height: 100%
 }
 
-
+.main {
+		
+        margin: 0 auto;
+        width: 960px;
+        background-color: #7c2222;
+        padding: 20px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    
+    
+    
+    
+}
 
 .footer {
     
