@@ -11,7 +11,8 @@ body {
 } 
 
 .containermain {
-    padding-left:100px;
+    padding-left:20px;
+    padding-right: 20px;
 }
 .footer {
     
@@ -24,4 +25,12 @@ body {
     
     
   }
+
+#dtf {
+    width: 300px;
+}
+
+#crystal {
+    height: 140px;
+}
  
